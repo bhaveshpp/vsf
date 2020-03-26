@@ -19,6 +19,8 @@
 > $ sudo apt-get install -y docker-ce
 
 > $ sudo systemctl status docker
+
+> $ apt  install docker-compose
  
 > ## Nodejs
 
